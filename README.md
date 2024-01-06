@@ -3,15 +3,15 @@
 
 <p align="center"><img  alt="coder coding gif" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></p><br><br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biwash100-budhathoki&label=Profile%20views&color=0e75b6&style=flat" alt="biwash100-budhathoki" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=myselfbiwash&label=Profile%20views&color=0e75b6&style=flat" alt="myselfbiwash" /> </p>
 
 
 
-- 🔭 I'm currently working on [E-commerce dashboard](https://github.com/Biwash100-Budhathoki/E-commerce-Dashboard)
+- 🔭 I'm currently working on [E-commerce dashboard](https://github.com/myselfbiwash/E-commerce-Dashboard)
 
 - 🌱 I’m currently learning **React-JS, Next-JS, Node-JS, MongoDB, Javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Biwash100-Budhathoki?tab=repositories](https://github.com/Biwash100-Budhathoki?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/myselfbiwash?tab=repositories](https://github.com/myselfbiwash?tab=repositories)
 
 - 📫 How to reach me **biwashbudhathoki100@gmail.com**
 
@@ -28,6 +28,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biwash100-budhathoki&show_icons=true&locale=en" alt="biwash100-budhathoki" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=myselfbiwash&show_icons=true&locale=en" alt="myselfbiwash" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biwash100-budhathoki&" alt="biwash100-budhathoki" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=myselfbiwash&" alt="myselfbiwash" /></p>
