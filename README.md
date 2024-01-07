@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **biwashbudhathoki100@gmail.com**
 
-- ⚡ Best Quote: **If you want to win, learn to loose.**
+- ⚡ Best Quote: **If you want to win, learn to lose.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
